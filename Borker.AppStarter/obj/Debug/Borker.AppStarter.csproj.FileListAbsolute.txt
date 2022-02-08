@@ -1,0 +1,15 @@
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.AppStarter.exe
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.AppStarter.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.Controllers.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.MemoryBasedDAL.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.Model.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.PresentationLayer.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.Controllers.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.MemoryBasedDAL.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.Model.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\bin\Debug\Borker.PresentationLayer.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\obj\Debug\Borker.AppStarter.csprojAssemblyReference.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\obj\Debug\Borker.AppStarter.csproj.CoreCompileInputs.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\obj\Debug\Borker.AppStarter.csproj.CopyComplete
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\obj\Debug\Borker.AppStarter.exe
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.AppStarter\obj\Debug\Borker.AppStarter.pdb

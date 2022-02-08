@@ -1,0 +1,9 @@
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\bin\Debug\Borker.MemoryBasedDAL.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\bin\Debug\Borker.MemoryBasedDAL.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\obj\Debug\Borker.MemoryBasedDAL.csprojAssemblyReference.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\obj\Debug\Borker.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\obj\Debug\Borker.MemoryBasedDAL.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\obj\Debug\Borker.MemoryBasedDAL.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\bin\Debug\Borker.Model.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\bin\Debug\Borker.Model.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.MemoryBasedDAL\obj\Debug\Borker.MemoryBasedDAL.csproj.CopyComplete

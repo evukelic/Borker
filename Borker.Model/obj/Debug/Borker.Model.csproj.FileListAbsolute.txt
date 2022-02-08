@@ -1,0 +1,6 @@
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Model\bin\Debug\Borker.Model.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Model\bin\Debug\Borker.Model.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Model\obj\Debug\Borker.Model.csprojAssemblyReference.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Model\obj\Debug\Borker.Model.csproj.CoreCompileInputs.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Model\obj\Debug\Borker.Model.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Model\obj\Debug\Borker.Model.pdb

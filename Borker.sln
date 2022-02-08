@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borker.AppStarter", "Borker.AppStarter\Borker.AppStarter.csproj", "{514D7391-C32C-4035-8BD0-59338F89A434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borker.MemoryBasedDAL", "Borker.MemoryBasedDAL\Borker.MemoryBasedDAL.csproj", "{30AD781F-EAB9-448A-9746-5501BF9963D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borker.Controllers", "Borker.Controllers\Borker.Controllers.csproj", "{54CB6F74-2A98-4210-A6CD-CD0DAFDC8973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borker.PresentationLayer", "Borker.PresentationLayer\Borker.PresentationLayer.csproj", "{2C71F075-B115-4146-8DF1-DAF3A3036314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borker.Model", "Borker.Model\Borker.Model.csproj", "{5CAF76A9-62F7-44B3-843F-5D11041DD267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borker.MemoryBasedDAL.Tests", "Borker.MemoryBasedDAL.Tests\Borker.MemoryBasedDAL.Tests.csproj", "{44A2C19B-7D47-4110-9481-2C9EBFFE2E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514D7391-C32C-4035-8BD0-59338F89A434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514D7391-C32C-4035-8BD0-59338F89A434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514D7391-C32C-4035-8BD0-59338F89A434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514D7391-C32C-4035-8BD0-59338F89A434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AD781F-EAB9-448A-9746-5501BF9963D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AD781F-EAB9-448A-9746-5501BF9963D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AD781F-EAB9-448A-9746-5501BF9963D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AD781F-EAB9-448A-9746-5501BF9963D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CB6F74-2A98-4210-A6CD-CD0DAFDC8973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CB6F74-2A98-4210-A6CD-CD0DAFDC8973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CB6F74-2A98-4210-A6CD-CD0DAFDC8973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CB6F74-2A98-4210-A6CD-CD0DAFDC8973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C71F075-B115-4146-8DF1-DAF3A3036314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C71F075-B115-4146-8DF1-DAF3A3036314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C71F075-B115-4146-8DF1-DAF3A3036314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C71F075-B115-4146-8DF1-DAF3A3036314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAF76A9-62F7-44B3-843F-5D11041DD267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAF76A9-62F7-44B3-843F-5D11041DD267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAF76A9-62F7-44B3-843F-5D11041DD267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAF76A9-62F7-44B3-843F-5D11041DD267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A2C19B-7D47-4110-9481-2C9EBFFE2E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A2C19B-7D47-4110-9481-2C9EBFFE2E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A2C19B-7D47-4110-9481-2C9EBFFE2E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A2C19B-7D47-4110-9481-2C9EBFFE2E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C1EB98-16B1-4C65-B249-B2928CC965B1}
+	EndGlobalSection
+EndGlobal

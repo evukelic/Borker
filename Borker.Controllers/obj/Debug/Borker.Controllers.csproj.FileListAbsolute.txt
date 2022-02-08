@@ -1,0 +1,9 @@
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\bin\Debug\Borker.Controllers.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\bin\Debug\Borker.Controllers.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\obj\Debug\Borker.Controllers.csprojAssemblyReference.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\obj\Debug\Borker.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\obj\Debug\Borker.Controllers.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\obj\Debug\Borker.Controllers.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\bin\Debug\Borker.Model.dll
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\bin\Debug\Borker.Model.pdb
+C:\Users\u23w73\Desktop\oo_projekt\Borker.AppStarter\Borker.Controllers\obj\Debug\Borker.Controllers.csproj.CopyComplete

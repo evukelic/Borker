@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Borker.PresentationLayer.AddBorkerForm" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A5UBAAQAAWAAAEFEBBGAAEgCCAAAEAAKACIAAYQCACE=</HashCode>
+      <FileName>AddBorkerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.AvailableBorkersForm" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAASAAAEABAEiEgAACAAAAAACABBAAAIAAgAA=</HashCode>
+      <FileName>AvailableBorkersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.BorkerCardForm" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAQEAAGAAIDIEFFDACEgCgAAAIAAKACIBCIZCCEA=</HashCode>
+      <FileName>BorkerCardForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.InfoForm" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8wAAAAAAASAAABAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>InfoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.MenuForm" Collapsed="true">
+    <Position X="2.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgEIAAAAACCAAAABAADGgBASgAACAACgEAAEBIAFAIA=</HashCode>
+      <FileName>MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.ProfileForm" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAACAAAFCAAACFAAICAAAAAAiAAQBAAYAAAAA=</HashCode>
+      <FileName>ProfileForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.RegistrationForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQCAAAQAACAAABFAAACAAEACCAAAAAAAAQAEAgIAAAA=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.SignInForm" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAABCAAABBBAACCAAEOAAAAAACgAYAMAwIAAAA=</HashCode>
+      <FileName>SignInForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.Properties.Resources" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAABEAAAgQAAEAAAQAAAAAAIAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.Services.BorkerService" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAAAAAAgAAAAAIABABAAAABIAABAAAAAAAAABAA=</HashCode>
+      <FileName>Services\BorkerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Borker.PresentationLayer.Services.UserService" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASCAAAAAAAACAAAEIAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UserService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
